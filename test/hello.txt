@@ -1,0 +1,3 @@
+be my baby
+
+select * from warehouse.customers
