@@ -11,6 +11,8 @@ git remote -v
 
 git checkout -b [branch_name]
 
+git add [file]
+
 git commit -m "[comments]"
 
 git push -u origin [branch_name]
