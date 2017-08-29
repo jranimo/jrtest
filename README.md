@@ -1,11 +1,11 @@
 # jrtest
 
-git clone [url]
-git init
-git remote add origin [remote repository URL]
-git remote -v
-git checkout -b [branch_name]
-git commit -m "[comments]"
-git push -u origin [branch_name]
+\ngit clone [url]
+\ngit init
+\ngit remote add origin [remote repository URL]
+\ngit remote -v
+\ngit checkout -b [branch_name]
+\ngit commit -m "[comments]"
+\ngit push -u origin [branch_name]
 
 pull request
