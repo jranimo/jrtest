@@ -2,3 +2,5 @@ Hello, world.
 this is an edit
 
 Test for a pull request aka PR
+
+can I change one file without updating the whole Git?
