@@ -1,20 +1,22 @@
 # jrtest
 
 
-git clone [url]
+git clone [url] #clone the github repository to your local computer
 
-git init
+git init #initialize 
 
-git remote add origin [remote repository URL]
+git remote add origin [remote repository URL] #add the path you want to push changes to
 
-git remote -v
+git remote -v #check that the path is correct
 
-git checkout -b [branch_name]
+#make changes to repository. Add/remove files, modify files, etc.
 
-git add [file]
+git checkout -b [branch_name] #check out a new branch 
 
-git commit -m "[comments]"
+git add [file] #add the files that you made changes to as a new commit
 
-git push -u origin [branch_name]
+git commit -m "[comments]" #commit the changes with comments so others can understand what you changed
 
-pull request
+git push -u origin [branch_name] #push the branch back up to the origin git repository
+
+pull request #go to the github and merge the changes. "rebase and merge" rather than just "merge".
