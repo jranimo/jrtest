@@ -19,4 +19,6 @@ git commit -m "[comments]" #commit the changes with comments so others can under
 
 git push -u origin [branch_name] #push the branch back up to the origin git repository
 
+**force push git push -f origin marketing_goals
+
 pull request #go to the github and merge the changes. "rebase and merge" rather than just "merge".
